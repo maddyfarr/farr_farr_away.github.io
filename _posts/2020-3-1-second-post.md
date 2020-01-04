@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hey there :) 
+---
+
 Lesson Learnt 1
 
 
