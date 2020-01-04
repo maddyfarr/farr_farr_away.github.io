@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hey there :) 
+title: Lesson Learnt 1
 ---
-
-Lesson Learnt 1
 
 
 A lesson learnt: A ship is safe in the harbour – but that is not what it is built for

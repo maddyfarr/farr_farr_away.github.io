@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey there :) 
+title: Introduction 
 ---
 
 Guten abend/morgen/tag fruenden, 
