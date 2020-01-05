@@ -16,7 +16,9 @@ This is a very honest blog in which I aim to be as true as possible. I would lik
 design experimentation, blog entries, tips on dealing with anxiety, lessons learnt, and "quacking" in interesting places. You will see...
 So please feel free to join me on my adventure, I would love to have you along for the ride. It could be a bit of a bumpy one knowing me, 
 but that is all part of the fun, right?
+
 Yours truly,
+
 Maddy xxx 
 
 ### Contact me
